@@ -1,0 +1,20 @@
+2024-07-12 09:27:39,257 - INFO - Attempting to run: C:\Users\blast\AppData\Local\Temp\_MEI116282\home.py
+2024-07-12 09:27:39,331 - INFO - Subprocess call finished with return code 2
+2024-07-12 09:27:39,331 - INFO - Subprocess stdout: 
+2024-07-12 09:27:39,331 - ERROR - Subprocess stderr: python: can't open file 'C:\\Users\\blast\\AppData\\Local\\Temp\\_MEI116282\\home.py': [Errno 2] No such file or directory
+
+2024-07-12 10:12:46,289 - INFO - Attempting to run: C:\Users\blast\AppData\Local\Temp\_MEI107842\home.py
+2024-07-12 10:12:46,419 - INFO - Subprocess call finished with return code 2
+2024-07-12 10:12:46,420 - INFO - Subprocess stdout: 
+2024-07-12 10:12:46,420 - ERROR - Subprocess stderr: python: can't open file 'C:\\Users\\blast\\AppData\\Local\\Temp\\_MEI107842\\home.py': [Errno 2] No such file or directory
+
+2024-07-12 10:32:55,029 - INFO - Attempting to run: C:\Users\blast\AppData\Local\Temp\_MEI134122\home.py
+2024-07-12 10:32:55,101 - INFO - Subprocess call finished with return code 2
+2024-07-12 10:32:55,102 - INFO - Subprocess stdout: 
+2024-07-12 10:32:55,102 - ERROR - Subprocess stderr: python: can't open file 'C:\\Users\\blast\\AppData\\Local\\Temp\\_MEI134122\\home.py': [Errno 2] No such file or directory
+
+2024-07-12 10:39:36,355 - INFO - Attempting to run: C:\Users\blast\AppData\Local\Temp\_MEI81282\home.py
+2024-07-12 10:39:36,433 - INFO - Subprocess call finished with return code 2
+2024-07-12 10:39:36,433 - INFO - Subprocess stdout: 
+2024-07-12 10:39:36,433 - ERROR - Subprocess stderr: python: can't open file 'C:\\Users\\blast\\AppData\\Local\\Temp\\_MEI81282\\home.py': [Errno 2] No such file or directory
+

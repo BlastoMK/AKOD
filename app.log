@@ -1,0 +1,12 @@
+2024-07-12 08:34:28,774 - INFO - Attempting to run: c:\Users\blast\OneDrive\Desktop\Demo\AKOD\login database\home.py
+2024-07-12 09:20:45,947 - INFO - Subprocess call finished with return code 0
+2024-07-12 09:20:45,947 - INFO - Subprocess stdout: 
+2024-07-12 09:20:45,948 - ERROR - Subprocess stderr: 
+2024-07-12 10:33:36,782 - INFO - Attempting to run: c:\Users\blast\OneDrive\Desktop\Demo\AKOD\login database\home.py
+2024-07-12 10:33:51,531 - INFO - Subprocess call finished with return code 0
+2024-07-12 10:33:51,531 - INFO - Subprocess stdout: 
+2024-07-12 10:33:51,531 - ERROR - Subprocess stderr: 
+2024-07-23 21:12:32,433 - INFO - Attempting to run: c:\Users\blast\OneDrive\Desktop\Demo\AKOD\login database\home.py
+2024-07-23 21:12:52,709 - INFO - Subprocess call finished with return code 0
+2024-07-23 21:12:52,709 - INFO - Subprocess stdout: 
+2024-07-23 21:12:52,710 - ERROR - Subprocess stderr: 
